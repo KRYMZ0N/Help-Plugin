@@ -1,0 +1,10 @@
+# Help Plugin Config
+# to reload the config type the command /helpplugin reload
+
+# This list is where you put your help stuff
+Help:
+  - "&6[---------------------HELP---------------------]"
+  - "&7Your command - does this stuff"
+  - "&7Your other command - does different stuff"
+  - "&7Cool Command - does cool stuff"
+  - "&6[---------------------HELP---------------------]"

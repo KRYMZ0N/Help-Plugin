@@ -1,0 +1,11 @@
+name: Help
+version: ${project.version}
+main: me.krymz0n.help.Main
+authors: [ KRYMZ0N ]
+description: A help plugin designed for Anarchy servers
+website: 3b3t.me
+commands:
+  help:
+    description: a
+  helpplugin:
+    description: a
